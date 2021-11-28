@@ -4,6 +4,9 @@
 #include<conio.h>
 
 void main(){
+	//clearing previous screen
+	clrscr();
+	
 	//Declaration of x, f, and n;
 	int n , x [ 50 ] , f [ 50 ] ;
 	
