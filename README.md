@@ -36,7 +36,7 @@ mean = Σfx / N , where N = Σf.
 
 #### exit
 
-#Output
+# Output
 
 How many elements are there? :8
 
