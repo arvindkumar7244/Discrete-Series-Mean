@@ -36,6 +36,8 @@ mean = Σfx / N , where N = Σf.
 
 #### exit
 
+#Output
+
 How many elements are there? :8
 
 Enter elements & frequencies : 0   14
