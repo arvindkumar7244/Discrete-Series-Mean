@@ -18,8 +18,9 @@ void main(){
 		cin>> x [ i ];
 		cin>> f [ i ];
 	}
-	
-		//calculating Σfx and Σf
+
+
+	// calculating Σfx and Σf
 	int sum_fx = 0;
 	int sum_f = 0;
 	for ( i = 0 ; i < n ; i++ ){
@@ -27,7 +28,7 @@ void main(){
 		sum_f = sum_f + f [  i  ] ;
 	}
 	
-		//calculating mean
+	//calculating mean
 	float mean=(float) sum_fx / sum_f;
 	
 	//priting mean
